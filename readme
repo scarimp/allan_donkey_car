@@ -1,0 +1,74 @@
+
+Da: Allan Herman [mailto:teacher.physics@gmail.com] 
+Inviato: sabato 24 novembre 2018 12:40
+A: Francesco Luzio <f.luzio@converge.it>
+Oggetto: Is this how you want me to communicate regarding my problems?
+
+Ciao Francesco,
+Is this what you want me to send when I have a problem:
+1) I start with ssh and show that everything works.
+2) A quit with Crtl-Z.
+3) I try to start with: python manage.py drive
+4) And you see the result in blue.
+5) I found this link and it seems relevant line in extra-large letters:
+https://www.raspberrypi.org/forums/viewtopic.php?t=117247
+Allan
+
+
+allan@Herman:~$ ssh pi@donkeypi
+pi@donkeypi's password: 
+Linux donkeypi 4.14.34-v7+ #1110 SMP Mon Apr 16 15:18:51 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Nov 22 07:53:46 2018 from 192.168.1.8
+(env) pi@donkeypi:~ $ cd ~/mycar
+(env) pi@donkeypi:~/mycar $ python manage.py drive
+using donkey version: 2.5.8 ...
+/usr/lib/python3/dist-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+loading config file: /home/pi/mycar/config.py
+config loaded
+PiCamera loaded.. .warming camera
+Starting Donkey Server...
+You can now go to http://192.168.1.5:8887 to drive your car.
+/home/pi/env/lib/python3.5/site-packages/picamera/encoders.py:544: PiCameraResolutionRounded: frame size rounded up from 160x120 to 160x128
+  width, height, fwidth, fheight)))
+^Z
+[1]+  Stopped                 python manage.py drive
+(env) pi@donkeypi:~/mycar $ python manage.py drive
+using donkey version: 2.5.8 ...
+/usr/lib/python3/dist-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+loading config file: /home/pi/mycar/config.py
+config loaded
+mmal: mmal_vc_port_enable: failed to enable port 
+vc.null_sink:in:0(OPQV): ENOSPC
+mmal: mmal_port_enable: failed to enable connected port (vc.null_sink:in:0(OPQV))0x2192130 (ENOSPC)
+mmal: mmal_connection_enable: output port couldn't be enabled
+Traceback (most recent call last):
+  File "manage.py", line 176, in <module>
+    drive(cfg, model_path=args['--model'], use_joystick=args['--js'], use_chaos=args['--chaos'])
+  File "manage.py", line 44, in drive
+    cam = PiCamera(resolution=cfg.CAMERA_RESOLUTION)
+  File "/home/pi/env/lib/python3.5/site-packages/donkeycar/parts/camera.py", line 20, in __init__
+    self.camera = PiCamera()  # PiCamera gets resolution (height, width)
+  File "/home/pi/env/lib/python3.5/site-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/home/pi/env/lib/python3.5/site-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/home/pi/env/lib/python3.5/site-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/home/pi/env/lib/python3.5/site-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/home/pi/env/lib/python3.5/site-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources:-)
+(env) pi@donkeypi:~/mycar $ sudo reboot now
+Connection to donkeypi closed by remote host.
+Connection to donkeypi closed.
+allan@Herman:~$ ssh pi@donkeypi
