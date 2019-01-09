@@ -18,7 +18,7 @@ Mobil: 0045 29494563
 E-mail Anders: anders.harbo@gmail.com
 
 
-
+==================================================
 
 
 Da: Allan Herman [mailto:teacher.physics@gmail.com] 
