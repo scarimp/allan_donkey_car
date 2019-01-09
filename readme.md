@@ -22,8 +22,6 @@ You can download it for free [here](http://www.allitebooks.in/programming-with-m
 
 Google Play Books is a very fine reader for pdf-books
 See youg next week -. I'm in Copenhangen this week. Enjoy!
-
-Anders.
 -- 
 Anders Harbo
 Mobil: 0045 29494563
