@@ -58,16 +58,7 @@ config loaded
 PiCamera loaded.. .warming camera
 Starting Donkey Server...
 You can now go to http://192.168.1.5:8887 to drive your car.
-/home/pi/env/lib/python3.5/site-packages/picamera/encoders.py:544: PiCameraResolutionRounded: frame size rounded up from 160x120 to 160x128
-  width, height, fwidth, fheight)))
-^Z
-[1]+  Stopped                 python manage.py drive
-(env) pi@donkeypi:~/mycar $ python manage.py drive
-using donkey version: 2.5.8 ...
-/usr/lib/python3/dist-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
-  from ._conv import register_converters as _register_converters
-loading config file: /home/pi/mycar/config.py
-config loaded
+/home/pi/env/lib/python3.5/site-packages/picamera/encoders.py:544: PiCameraResolutionRounded: frame size rounded up from 160x120 
 mmal: mmal_vc_port_enable: failed to enable port 
 vc.null_sink:in:0(OPQV): ENOSPC
 mmal: mmal_port_enable: failed to enable connected port (vc.null_sink:in:0(OPQV))0x2192130 (ENOSPC)
