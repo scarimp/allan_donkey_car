@@ -1,8 +1,7 @@
 
 An esp32 device with camera:
 
-Add an eye to esp32 board and ...:[eyes:]
-(https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP-EYE_V2.0_Getting_Started_Guide.md)
+Add an eye to esp32 board and ...:[eyes:](https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP-EYE_V2.0_Getting_Started_Guide.md)
 GitHub
 espressif/esp-who
 Face detection and recognition framework. Contribute to espressif/esp-who development by creating an account on GitHub.
