@@ -1,5 +1,5 @@
 
-Today  (10/01/2019) Franco add  this contribute:
+(10/01/2019) Franco add  this contribute:
 ---------------------------------------------
 
 
@@ -16,11 +16,11 @@ I create a pdf about uPyCraft IDE, that is this repository [here](https://github
 
 A good blog about [uPyCraft IDE ](https://techtutorialsx.com/2017/07/20/esp32-micropython-getting-started-with-the-upycraft-ide/).
 
-An example code on [GPIO](https://randomnerdtutorials.com/micropython-gpios-esp32-esp8266/)
+An example code on [GPIO](https://randomnerdtutorials.com/micropython-gpios-esp32-esp8266/), discussed also on the [forum](https://www.dfrobot.com/forum/viewtopic.php?f=20&t=16123).
 
 
 ----------------------------------------------------------------------------------------------------------
-Today  (09/01/2019) Franco add  this contribute:
+(09/01/2019) Franco add  this contribute:
 ---------------------------------------------
 An esp32 device with camera:
 
@@ -31,7 +31,7 @@ Face detection and recognition framework.
 
 ---------------------------------------------
 
-Today  (09/01/2019) Anders add  this contribute:
+(09/01/2019) Anders add  this contribute:
 ------------------------------------------
 Hi Franco and Allan
 
