@@ -16,6 +16,8 @@ I create a pdf about uPyCraft IDE, that is this repository [here](https://github
 
 A good blog about [uPyCraft IDE ](https://techtutorialsx.com/2017/07/20/esp32-micropython-getting-started-with-the-upycraft-ide/).
 
+An example code on [GPIO](https://randomnerdtutorials.com/micropython-gpios-esp32-esp8266/)
+
 
 ----------------------------------------------------------------------------------------------------------
 Today  (09/01/2019) Franco add  this contribute:
