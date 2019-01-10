@@ -8,6 +8,7 @@ Getting Started with MicroPython on ESP32 and ESP8266
 Installing uPyCraft IDE
 there is a simple  [python framework ](https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/).
 There is a payed course on micropython on the esp32 and esp8266.
+I create a pdf about uPyCraft IDE.This document is in this repository.
 
 ----------------------------------------------------------------------------------------------------------
 Today  (09/01/2019) Franco add  this contribute:
