@@ -10,9 +10,7 @@ Installing [uPyCraft IDE  source depository](https://github.com/DFRobot/uPyCraft
 Is a simple  [python framework ](https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/).
 There is a payed course on micropython on the esp32 and esp8266.
 
-I create a pdf about uPyCraft IDE.
-
-This document is in this repository [here](https://github.com/scarimp/allan_donkey_car/blob/master/uPyCraft%20IDE_MicroPython%20on%20ESP32%20and%20ESP8266.pdf).
+I create a pdf about uPyCraft IDE, that is this repository [here](https://github.com/scarimp/allan_donkey_car/blob/master/uPyCraft%20IDE_MicroPython%20on%20ESP32%20and%20ESP8266.pdf).
 
 
 ----------------------------------------------------------------------------------------------------------
