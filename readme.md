@@ -1,5 +1,5 @@
 
-(10/01/2019) Franco add  this contribute:
+(10/01/2019) Franco add  this news on uPyCraft IDE:
 ---------------------------------------------
 
 
