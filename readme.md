@@ -85,9 +85,7 @@ You can now go to http://192.168.1.5:8887 to drive your car.
 mmal: mmal_vc_port_enable: failed to enable port 
 vc.null_sink:in:0(OPQV): ENOSPC
 mmal: mmal_port_enable: failed to enable connected port (vc.null_sink:in:0(OPQV))0x2192130 (ENOSPC)
-mmal: mmal_connection_enable: output port couldn't be enabled
 
-picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources:-)
 (env) pi@donkeypi:~/mycar $ sudo reboot now
 Connection to donkeypi closed by remote host.
 Connection to donkeypi closed.
