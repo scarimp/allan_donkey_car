@@ -1,4 +1,14 @@
 
+
+(04/02/2019) Allan  add  the projectith uPyCraft IDE:
+---------------------------------------------
+
+~~~~
+code
+code
+~~~~
+
+
 (10/01/2019) Franco add  this news on uPyCraft IDE:
 ---------------------------------------------
 
