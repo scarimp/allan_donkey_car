@@ -71,6 +71,9 @@ while True:
 sleep(0.1)
 ~~~~
 
+Complete project details [at RandomNerdTutorials](https://RandomNerdTutorials.com)
+
+----------------------------------------------------------
 
 (10/01/2019) Franco add  this news on uPyCraft IDE:
 ---------------------------------------------
