@@ -41,11 +41,11 @@ The program use a simple implementation of the [PID routine](https://en.wikipedi
 
 Programmes:
 -----------
-1. Basic configuration, robot_with_web_v1.py
+1. PID control, robot_with_encoder_v1.py                    
 2. Obstacle avoidance, robot_with_ultrasonic_v1.py
-3. PID control, robot_with_encoder_v1.py
+3. Basic configuration, robot_with_web_v1.py
  
-*Here the main loop:*
+*Here the main loop of PID control:*
 ~~~~
 # main loop:
 # listens for inputs from web and initiates the movements through call of 
