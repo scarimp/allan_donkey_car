@@ -45,10 +45,30 @@ Basic configuration, robot_with_web_v1.py
 Obstacle avoidance, robot_with_ultrasonic_v1.py
 PID control, robot_with_encoder_v1.py
  
-
+Here the main loop
 ~~~~
-code
-code
+# main loop:
+# listens for inputs from web and initiates the movements through call of 
+# proportional() and checkmovements()
+# waits half a second for next iteration (only due to printings for debugging
+
+while True:
+  events = sel.poll(100)
+  print(events)
+  for key, mask in events:
+        accept_wrapper(s)
+  
+  #if counterL>0 or counterR>0:
+  #  print(counterL)
+  #  print(counterR)
+  #print(dir)
+  if dir=="forward" or dir=="backward":
+    proportional(counterR-counterL, counterR+counterL, dir)
+  else:
+    checkMovements(dir)  
+  counterL=0
+  counterR=0
+sleep(0.1)
 ~~~~
 
 
