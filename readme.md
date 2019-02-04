@@ -1,7 +1,51 @@
 
 
-(04/02/2019) Allan  add  the projectith uPyCraft IDE:
+(04/02/2019) Allan  add  the project with uPyCraft IDE:
 ---------------------------------------------
+
+
+
+Hardware Basic:
+==============
+TT model
+2 dc motors
+1 motordriver l....
+1ESP32 mcu
+Battery: 4 x 1.5 volt (up to at total of 12 V)
+
+Add on:
+1 Ultrasonic sensor - hcrso4
+2 Optical encoders - 
+
+General description of car:
+--------------------------
+Two wheeled car with caster wheel at the back.
+The MCU connects web-page (local) with the motor controll. 
+Allowing for four directions and stop as well as controll of speed.
+
+Basic configuration:
+The car is controlled via webpage. 
+
+Obstacle avoidance:
+-------------------
+Add on to the basic configuration: Using the ultrasonic sensor. 
+The car stops when meeting obstacles in front (e.g. 30 cm distance) - then 
+it backs and turn left before continuing forward. The signal is 
+overriding the web set parameters for this maneuvre, using interupt signal.
+
+PID control:
+------------
+Add on to the obstacle avoidance configuration: Using the optical encoder. 
+The program reads the two encoders and based on the difference between 
+the two sets of data, the motor speed is controlled. 
+The program use a simple implementation of the PID routine.
+
+Programmes:
+-----------
+Basic configuration, robot_with_web_v1.py
+Obstacle avoidance, robot_with_ultrasonic_v1.py
+PID control, robot_with_encoder_v1.py
+ 
 
 ~~~~
 code
