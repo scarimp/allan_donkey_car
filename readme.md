@@ -41,9 +41,9 @@ The program use a simple implementation of the PID routine.
 
 Programmes:
 -----------
-1 Basic configuration, robot_with_web_v1.py
-2 Obstacle avoidance, robot_with_ultrasonic_v1.py
-3 PID control, robot_with_encoder_v1.py
+1. Basic configuration, robot_with_web_v1.py
+2. Obstacle avoidance, robot_with_ultrasonic_v1.py
+3. PID control, robot_with_encoder_v1.py
  
 *Here the main loop:*
 ~~~~
