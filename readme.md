@@ -6,8 +6,8 @@
 
 Hardware Basic:
 ==============
--TT model
--2 dc motors
+* TT model
+* 2 dc motors
 -1 motordriver l....
 -1ESP32 mcu
 -Battery: 4 x 1.5 volt (up to at total of 12 V)
