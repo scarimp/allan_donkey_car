@@ -45,7 +45,7 @@ Basic configuration, robot_with_web_v1.py
 Obstacle avoidance, robot_with_ultrasonic_v1.py
 PID control, robot_with_encoder_v1.py
  
-Here the main loop
+*Here the main loop:*
 ~~~~
 # main loop:
 # listens for inputs from web and initiates the movements through call of 
