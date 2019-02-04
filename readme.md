@@ -1,6 +1,6 @@
 
 
-(04/02/2019) Allan  add  the project on the car the python  with uPyCraft IDE:
+(04/02/2019) Allan  add  the python  project on the car developed with uPyCraft IDE:
 ---------------------------------------------
 
 
