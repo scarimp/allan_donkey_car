@@ -37,7 +37,7 @@ PID control:
 Add on to the obstacle avoidance configuration: Using the optical encoder. 
 The program reads the two encoders and based on the difference between 
 the two sets of data, the motor speed is controlled. 
-The program use a simple implementation of the [PID routine](https://en.wikipedia.org/wiki/PID_controller).
+The program use a simple implementation of the [PID routine](https://en.wikipedia.org/wiki/PID_controller) or[Controllo PID] (https://it.wikipedia.org/wiki/Controllo_PID).
 
 Programmes:
 -----------
