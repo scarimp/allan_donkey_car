@@ -1,6 +1,6 @@
 
 
-Discussion with Allan about a data logger with [motion detection](https://randomnerdtutorials.com/hack-pir-motion-sensor-esp8266-hlk-pm03/)
+Discussion with Anders about a data logger with [motion detection](https://randomnerdtutorials.com/hack-pir-motion-sensor-esp8266-hlk-pm03/).
 
 
 (04/02/2019) Allan  add  the python  project on the car developed with uPyCraft IDE:
