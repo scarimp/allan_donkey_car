@@ -1,5 +1,5 @@
 
-[A car drive simulator](http://carla.org/?ck_subscriber_id=272173535) is also open source.
+[A car drive simulator](http://carla.org/?ck_subscriber_id=272173535) is also open source with: [CARLA Autonomous Driving Challenge](https://carlachallenge.org/).
 
 [*Building a Toy Self-Driving Car: Part 1*](https://blog.floydhub.com/toy-self-driving-car-part-one/?utm_source=blog_subscribers&utm_medium=email&utm_campaign=2019_02_07)
 
