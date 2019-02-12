@@ -1,4 +1,6 @@
 
+[A car drive simulator](http://carla.org/?ck_subscriber_id=272173535) is also open source.
+
 [*Building a Toy Self-Driving Car: Part 1*](https://blog.floydhub.com/toy-self-driving-car-part-one/?utm_source=blog_subscribers&utm_medium=email&utm_campaign=2019_02_07)
 
 Learn the history and technology of autonomous cars in this Part 1 of a series on building a self-driving toy car with Raspberry Pi, Keras, and FloydHub.
