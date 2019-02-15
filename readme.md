@@ -1,4 +1,5 @@
 
+ESP-WHO is a face detection and recognition platform that is currently based on Espressif Systems' ESP32 chip.
 
 Espressif ha rilasciato la nuova scheda di sviluppo AIoT per applicazioni relative all'Intelligenza Artificiale 
 e all'Internet degli oggetti completa di fotocamera digitale, microfono e Wi-Fi. 
