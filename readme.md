@@ -1,4 +1,6 @@
 
+[ESP-WHO](https://www.espressif.com/en/products/hardware/esp-eye/overview)
+
 ESP-WHO is a face detection and recognition platform that is currently based on Espressif Systems' ESP32 chip.
 
 Espressif ha rilasciato la nuova scheda di sviluppo AIoT per applicazioni relative all'Intelligenza Artificiale 
@@ -6,7 +8,7 @@ e all'Internet degli oggetti completa di fotocamera digitale, microfono e Wi-Fi.
 ESP-EYE, la nuova scheda di sviluppo AIoT 
 
 
-Vedi:[ESP-who](https://github.com/espressif/esp-who)
+See:[ESP-who](https://github.com/espressif/esp-who)
 
 
 [A car drive simulator](http://carla.org/?ck_subscriber_id=272173535) is also open source:There is a : [CARLA Autonomous Driving Challenge](https://carlachallenge.org/).
