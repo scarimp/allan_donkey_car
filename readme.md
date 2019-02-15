@@ -1,4 +1,13 @@
 
+
+Espressif ha rilasciato la nuova scheda di sviluppo AIoT per applicazioni relative all'Intelligenza Artificiale 
+e all'Internet degli oggetti completa di fotocamera digitale, microfono e Wi-Fi. 
+ESP-EYE, la nuova scheda di sviluppo AIoT 
+
+
+Vedi:[ESP-who](https://github.com/espressif/esp-who)
+
+
 [A car drive simulator](http://carla.org/?ck_subscriber_id=272173535) is also open source:There is a : [CARLA Autonomous Driving Challenge](https://carlachallenge.org/).
 
 [*Building a Toy Self-Driving Car: Part 1*](https://blog.floydhub.com/toy-self-driving-car-part-one/?utm_source=blog_subscribers&utm_medium=email&utm_campaign=2019_02_07)
