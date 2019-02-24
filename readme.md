@@ -1,4 +1,7 @@
 
+
+Computer vision via pytorch (*torchvision*) on raspeberri pi for [racing car ](https://github.com/sergionr2/RacingRobot)
+
 [ESP-WHO](https://www.espressif.com/en/products/hardware/esp-eye/overview)
 
 ESP-WHO is a face detection and recognition platform that is currently based on Espressif Systems' ESP32 chip.
