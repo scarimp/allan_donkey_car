@@ -1,4 +1,4 @@
-# Complete project details at https://RandomNerdTutorials.com
+# Complete project details [at](https://RandomNerdTutorials.com)
 from machine import Pin, PWM
 import machine
 from time import sleep, ticks_ms, time
