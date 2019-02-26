@@ -1,6 +1,6 @@
 
 
-Computer vision via pytorch (*torchvision*) on raspeberri pi (Ubuntu MATE 16.04) for [racing car ](https://github.com/sergionr2/RacingRobot)
+Computer vision via pytorch (*torchvision*) on raspeberry pi (Ubuntu MATE 16.04) for [racing car ](https://github.com/sergionr2/RacingRobot)
 
 [ESP-WHO](https://www.espressif.com/en/products/hardware/esp-eye/overview)
 
