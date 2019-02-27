@@ -1,4 +1,5 @@
 
+A plug-in  Esp32 and Esp3286 for micro-python [Thonny](https://github.com/thonny/thonny-esp).
 
 Computer vision via pytorch (*torchvision*) on raspeberry pi (Ubuntu MATE 16.04) for [racing car ](https://github.com/sergionr2/RacingRobot)
 
