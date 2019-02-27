@@ -1,4 +1,7 @@
 
+A FireBeetle ESP32 IOT Microcontroller (Supports Wi-Fi & Bluetooth)from [dfrobot](https://www.dfrobot.com/product-1590.html)
+with USB and 3.7V external lithium battery. And both USB and external DC can charge the Lipo battery directly.
+
 A plug-in  Esp32 and Esp3286 for micro-python [Thonny](https://github.com/thonny/thonny-esp) and [here](https://github.com/thonny/thonny/wiki/MicroPython).
 
 Computer vision via pytorch (*torchvision*) on raspeberry pi (Ubuntu MATE 16.04) for [racing car ](https://github.com/sergionr2/RacingRobot)
