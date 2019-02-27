@@ -96,7 +96,7 @@ sleep(0.1)
 
 Complete project details [at RandomNerdTutorials](https://RandomNerdTutorials.com)
 
-Another [IDE](https://thonny.org/) for micropython on esp32 and esp8266.
+Thonny another [IDE](https://thonny.org/) for micropython on esp32 and esp8266.
 
 ----------------------------------------------------------
 
