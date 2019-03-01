@@ -1,4 +1,6 @@
 
+Problems with connection of esp32 to pc windows [see at](https://randomnerdtutorials.com/esp32-troubleshooting-guide/)
+
 A FireBeetle ESP32 IOT Microcontroller (Supports Wi-Fi & Bluetooth)from [dfrobot](https://www.dfrobot.com/product-1590.html)
 with USB and 3.7V external lithium battery. And both USB and external DC can charge the Lipo battery directly.
 
