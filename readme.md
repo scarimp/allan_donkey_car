@@ -1,4 +1,7 @@
 
+
+Esp32 pin [layout](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
+
 Problems with connection of esp32 to pc windows [see this ](https://randomnerdtutorials.com/esp32-troubleshooting-guide/) and at [siliconlabs](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers).
 
 A FireBeetle ESP32 IOT Microcontroller (Supports Wi-Fi & Bluetooth)from [dfrobot](https://www.dfrobot.com/product-1590.html)
