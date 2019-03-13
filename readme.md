@@ -1,5 +1,5 @@
 
-Another python for iot devices [thonny](https://realpython.com/python-thonny/). Here documentation and [site](https://thonny.org/). Here the citation from [ruis Santos](https://rntlab.com/product/micropython-programming-with-esp32-and-esp8266/); and here the repository on github of [plugin of thonny](https://github.com/thonny) for esp32 and similia.
+Another python for iot devices [thonny](https://realpython.com/python-thonny/). Here documentation and [site](https://thonny.org/). Here the citation from [ruis Santos](https://rntlab.com/product/micropython-programming-with-esp32-and-esp8266/); and here the repository on github of [plugin of thonny](https://github.com/thonny) for esp32 et similia.
 
 
 -------------------------------------------------------------------------------------
