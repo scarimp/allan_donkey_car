@@ -1,4 +1,8 @@
 
+Another python for iot devices [thonny](https://realpython.com/python-thonny/)
+
+
+-------------------------------------------------------------------------------------
 Foe examples on python [see](https://randomnerdtutorials.com/micropython-interrupts-esp32-esp8266/).
 
 Rimember that you can use [platformIO for esp32](https://github.com/espressif/arduino-esp32/blob/master/docs/platformio.md).
