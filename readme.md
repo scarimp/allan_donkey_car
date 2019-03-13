@@ -1,5 +1,5 @@
 
-Another python for iot devices [thonny](https://realpython.com/python-thonny/)
+Another python for iot devices [thonny](https://realpython.com/python-thonny/). Here documentation and [site](https://thonny.org/)
 
 
 -------------------------------------------------------------------------------------
