@@ -1,8 +1,8 @@
-[Here](https://realpython.com/python-thonny/) an article on tonny from realpython.
+
 
 Doc on ESP32 [THONNY MODULES](https://github.com/scarimp/allan_donkey_car/blob/master/SHELL%20TONNY%20MODULES-ON_ESP32.pdf).
 
-Another python for iot devices [thonny](https://realpython.com/python-thonny/). Here documentation and [site](https://thonny.org/). Here the citation from [ruis Santos](https://rntlab.com/product/micropython-programming-with-esp32-and-esp8266/); and here the repository on github of [plugin of thonny](https://github.com/thonny) for esp32 et similia, and finally [here](https://github.com/thonny/thonny/wiki/MicroPython) for installing the plugin for esp32.
+Another python for iot devicesan; article on tonny from realpython [thonny](https://realpython.com/python-thonny/). Here documentation and [site](https://thonny.org/). Here the citation from [ruis Santos](https://rntlab.com/product/micropython-programming-with-esp32-and-esp8266/); and here the repository on github of [plugin of thonny](https://github.com/thonny) for esp32 et similia, and finally [here](https://github.com/thonny/thonny/wiki/MicroPython) for installing the plugin for esp32.
 Another article of Ruis Santos on [thonny](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/).Using esptool to flash [firmware](https://github.com/espressif/esptool) on esp32 devices.
 
 
